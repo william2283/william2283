@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="left">Ola👋! Meu nome e william... seja bem vindo meu Git</h2>
+<h2 align="left">Ola👋! Meu nome e william... seja bem vindo</h2>
 
 ###
 
